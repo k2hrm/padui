@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 4f8a14018adf24b5581d57abfc6ebb76
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - scrollList: {instanceID: 0}
+  - progressBar: {instanceID: 0}
+  - progressBarExp: {instanceID: 0}
+  - listItemPrefab: {fileID: 100002, guid: 11acf7237afc342dcb7af4d14d3aa3ea, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
